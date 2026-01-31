@@ -20,4 +20,4 @@ elif choice==3:
 elif choice==4:    
     print(calculator.divide(a,b))   
 elif choice==5:
-    print("THANK YOU")    
+    print("10Q")
